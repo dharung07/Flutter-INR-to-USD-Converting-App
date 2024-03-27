@@ -16,7 +16,7 @@ Welcome to the Flutter INR to USD Converter App repository! This is my first-eve
 4. Experience the simplicity and functionality of this basic Flutter application for currency conversion.
 
 #### Screenshot
-[Screenshot](/screenshot/screenshot.jpg)
+![Screenshot](/screenshot/screenshot.jpg)
 
 #### Contributions:
 As a beginner project, contributions, feedback, and suggestions are highly appreciated! Whether you're new to Flutter or an experienced developer, your insights can help improve this project and guide others in their learning journey. Feel free to fork this repository, experiment with enhancements, and share your contributions through pull requests.
